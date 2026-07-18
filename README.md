@@ -1,4 +1,4 @@
-100 Days of DSA 
+100 Days of DSA
 
 This repository documents my journey of learning and practicing Data Structures & Algorithms, one problem at a time. The goal is to build strong problem-solving skills and stay consistent with daily practice.
 
